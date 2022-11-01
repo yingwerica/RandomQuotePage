@@ -1,0 +1,116 @@
+body {
+    background-color:#FFF8E5;
+    font-family: Helvetica, sans-serif;
+    padding: 2rem;
+}
+
+header {
+ font-size: 80px;
+ color: #00A19D;
+ text-align: center;
+ margin-top: 60px;
+}
+
+.special-title {
+    background-color:#B8DFD8 ;
+    color: #FFF;
+    border-radius: 2rem;
+    height: 2.5rem;
+    width: 20%;
+    line-height: 2rem;
+    margin: 40px 40% 0 40%;
+    font-size: 2rem;
+    text-align: center;
+    cursor: pointer;
+    padding: 1rem;
+   
+  }
+
+#quote-of-the-day {
+    margin: 1rem 0px;
+    font-size: 2rem;
+    text-align: center;
+    color:#FFB344 ;
+  }
+
+img {
+    width: 60%;
+    margin: 5% 80% 0% 20%;
+    border-radius: 1rem;
+  }
+
+.monthly_bl {
+    display: flex;
+    flex-direction: column;
+
+} 
+
+.list_title {
+    margin: 15% 0 20px 20%;
+    width: 60%;
+    color:white;
+    font-size: 30px;
+    background-color: #FFB344;
+    text-align: center;
+    align-content: center;
+    border-radius: 1rem;
+}
+
+.booklist {
+    margin: 1% 80% 0% 20%; 
+    
+    color: #FFB344;
+}
+
+.list_item {
+    padding: 1rem;
+    width: 500px;
+    font-size: 25px;
+}
+
+.book_intro {
+   margin: 3% 0 20% 3%;
+   width: 70%;
+  }
+
+.content {
+    display: flex;
+    align-content: space-around;
+}
+
+.myFavItem {
+   border-radius: 1em;
+   margin: 2% 5% 2% 0 ;
+   padding: 2rem;
+   line-height: 2rem;
+}
+
+.myFavItem > h2 {
+    color: #00A19D;
+    font-size: 2rem;
+}
+
+.myFavItem > p {
+    font-size: 1.5rem; 
+}
+
+ .intro {
+    text-align: left;
+ }
+
+.lightgreen {
+    background-color:#B8DFD8;
+}
+
+.orange {
+    background-color: #FFB344;
+}
+
+.textWhite {
+    color:white;
+}
+
+.link:hover{
+    color:#FFB344;
+}
+
